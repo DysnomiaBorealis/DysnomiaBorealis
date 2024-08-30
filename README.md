@@ -6,4 +6,4 @@ I've got some experience building apps for Android using Jetpack Frameworks (bot
 
 Other than that, I've been delving into Google Collabs using python, just trying to mess and study about Machine Learning and its implementation.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DysnomiaBorealis)]
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DysnomiaBorealis)
