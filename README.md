@@ -6,7 +6,7 @@ I've got some experience building apps for Android using Jetpack Frameworks (bot
 
 Other than that, I've been delving into Backend development using Node.js and Go-lang.
 
-![Top Langs]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DysnomiaBorealis](https://github-readme-stats.vercel.app/api/top-langs/?username=DysnomiaBorealis))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DysnomiaBorealis)
 
 ### 🛠 Programming Languages:
 <p align="center">
