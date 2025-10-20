@@ -4,7 +4,9 @@ Just a regular curious guy who's really interested in programming.
 
 I've got some experience building apps for Android using Jetpack Frameworks (both XML and Compose) also I've been learning to develop Multi-Platorm APP via Kotlin Multiplatform Mobile and using Dart via Flutter Framework.
 
-Other than that, I've been delving into Backend development using Node.js and Go-lang.
+Other than that, I've been delving into Backend development using Node.js and Go-lang. 
+
+Although, as of now I'm learning Machine Learning and Deep Learning for the time being and I really enjoy it, hope it goes well.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DysnomiaBorealis)
 
