@@ -8,7 +8,7 @@ Other than that, I've been delving into Backend development using Node.js and Go
 
 Although, as of now I'm learning Machine Learning and Deep Learning for the time being and I really enjoy it, hope it goes well.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DysnomiaBorealis)
+![Top Langs](https://github-stats-extended.vercel.app/api?username=DysnomiaBorealis)
 
 ### 🛠 Programming Languages:
 <p align="center">
